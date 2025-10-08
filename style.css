@@ -1,0 +1,22 @@
+body {
+  font-family: Arial;
+  display: flex;
+  flex-direction: column;
+  align-items: center;   
+  justify-content: center; 
+  height: 100vh;    
+  background-color: gray;
+}    
+
+h1 {
+  text-align: center;
+}
+
+#expression {
+  width: 60%;
+  height: 40px;
+  font-size: 24px;
+  text-align: center;
+  display: block;         
+  margin: 20px auto;      
+}
